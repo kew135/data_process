@@ -1,0 +1,3 @@
+关于GWH数据库处理tack的代码：
++ process_mRNA_track.py：从含有mRNA注释的GFF文件中提取出mRNA注释，并存储为GFF文件
++ process_encode_track.py：从含有调控元件的GFF文件中提取出调控元件的注释，并存储为GFF文件
